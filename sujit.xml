@@ -1,0 +1,12 @@
+
+<suite name="Sujitha">
+  <test name="Jagruthi">
+    <classes>
+      
+      <class name="com.sujitha.testng.EmpAdd"/>
+      <class name="com.sujitha.testng.EmpList"/>
+
+     
+    </classes>
+  </test>
+</suite> 

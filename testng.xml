@@ -1,0 +1,12 @@
+
+<suite name="Vasu">
+  <test name="Sample">
+    <classes>
+      <class name="com.sujitha.testng.AnnotationsTest"/>
+      <class name="com.sujitha.testng.AdminLoginTest"/>
+      <class name="com.sujitha.testng.MultipleTestCases"/>
+      <class name="com.sujitha.testng.BATest"/>
+      <class name="com.sujitha.testng.FirstTestNg"/>
+       </classes>
+  </test> 
+</suite> 

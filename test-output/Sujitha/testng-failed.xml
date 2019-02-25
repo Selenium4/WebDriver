@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Sujitha]">
+  <test name="Jagruthi(failed)">
+    <classes>
+      <class name="com.sujitha.testng.EmpAdd">
+        <methods>
+          <include name="appLogin"/>
+          <include name="applaunch"/>
+          <include name="appClose"/>
+          <include name="appLogout"/>
+        </methods>
+      </class> <!-- com.sujitha.testng.EmpAdd -->
+      <class name="com.sujitha.testng.EmpList">
+        <methods>
+          <include name="empList"/>
+        </methods>
+      </class> <!-- com.sujitha.testng.EmpList -->
+    </classes>
+  </test> <!-- Jagruthi(failed) -->
+</suite> <!-- Failed suite [Sujitha] -->
